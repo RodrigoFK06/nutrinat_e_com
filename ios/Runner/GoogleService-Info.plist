@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>59482166375-qmih6nid94gdl4d7ctfdd4v4d0v75b35.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.59482166375-qmih6nid94gdl4d7ctfdd4v4d0v75b35</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>59482166375-3vh9r2lv1v6d0jt90ph0874nrr9mua9d.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyApndtEq2z1T28Y6_yCpDJ8STpAWi28k8U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>59482166375</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nutrinatcompany.com</string>
+	<key>PROJECT_ID</key>
+	<string>nutrinat-e-com-oh1eyk</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nutrinat-e-com-oh1eyk.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:59482166375:ios:4c599daf5e93300d5ff0c2</string>
+</dict>
+</plist>
